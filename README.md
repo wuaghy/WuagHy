@@ -1,67 +1,63 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00a63e&width=450&lines=👋Hi,+I'm+Nguyen+Quang+Huy;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-## 💡 About Me
 
-I’m a **Backend Developer** passionate about designing scalable systems using **ASP.NET Core**, **Clean Architecture**, and **modern DevOps practices**.  
-Currently, I’m building **GreenWheel – an EV Station-Based Rental System**, focusing on robust backend architecture, CI/CD pipelines, automated testing, authentication, payment integration, caching, and cloud deployment.
+🎓 **Software Engineering Student (Year 3)** @ FPT University  
+💻 Passionate about **Backend Development**, **.NET**, and building scalable, production-ready systems.  
+🧠 Exploring **Clean Architecture**, **TDD**, **CI/CD**, caching, and cloud integration.
+
+---
+
+## 🚀 About Me
+- I love analyzing, designing, and building **clean, scalable backend APIs**.  
+- I learn through practice: real projects, real tests, real bugs.  
+- Interested in system optimization: **Redis caching**, **Docker**, **SQL Server**, logging/monitoring, and API security.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programing Language
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoSize=30)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&logoSize=30)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white&logoSize=30)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=30)
+### **Backend**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Backend
+### **Database & Caching**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=30)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=30)
-
-### Database & Caching
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&logoSize=30)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&logoSize=30)
-
-### DevOps & Environment
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=30)
-
-### APIs
-
-![REST API](https://img.shields.io/badge/REST%20API-0052CC?style=for-the-badge&logo=postman&logoColor=white&logoSize=30)
-
-### Developer Tools
-
-<p align="left">
-
-![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&logoSize=30)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoSize=30)
-![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=30)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=30)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=30)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=30)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&logoSize=30)
-
-</p>
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-## 📬 Connect with Me
+## 📂 Featured Projects
 
-<p align="left">
-  <a href="mailto:nguyenquanghuy14022005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://www.facebook.com/huy.nguyen.649537"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-</p>
+### 🔹 **Green Wheel**  
+An electric vehicle rental management system built with **ASP.NET Core 8**.  
+Implements **JWT authentication**, **Redis caching**, **Cloudinary**, **MoMo payment**, clean service layers, caching, and role-based management.  
+📎 Repo: https://github.com/duck-lawrence/green-wheel-be
+
+### 🔹 **RentWise**  
+A backend-focused project applying **TDD**, **DDT**, CQRS-style structures, and **CI/CD pipelines** using GitHub Actions.  
+📎 Repo: https://github.com/WuagHy/RentWise
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WuagHy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuagHy&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
+[![Email](https://img.shields.io/badge/Email-nguyenquanghuy14022005@gmail.com-red?style=flat&logo=gmail)](mailto:nguyenquanghuy14022005@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-Nguyen%20Quang%20Huy-blue?style=flat&logo=facebook)](https://www.facebook.com/huy.nguyen.649537)  
+[![GitHub](https://img.shields.io/badge/GitHub-WuagHy-black?style=flat&logo=github)](https://github.com/WuagHy)
+
+---
+
+⭐ *“Silent but effective — I build, learn, and improve with every line of code.”*
